@@ -21,5 +21,6 @@
         android:layout_alignTop="@+id/tv_Spalash"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="18dp" />
+    
 
 </RelativeLayout>
